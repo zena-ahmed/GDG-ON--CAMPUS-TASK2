@@ -1,0 +1,17 @@
+.cart{
+    border: 20px;
+    padding: 30px;
+    outline: 2px blue;
+    margin: 30px red;
+}
+.button{
+    background-color: rgb(18, 18, 61);
+color: beige;
+padding: auto;
+border-radius: 10px;
+
+
+}
+div{
+    border: rgb(123, 34, 34);
+}
