@@ -1,0 +1,27 @@
+
+ p{   
+color: gray;
+}
+.first{
+    background: rgb(31, 31, 96);
+    padding: 20px;
+    margin:auto;
+    border-radius: 20px;
+width: 200px;
+text-align: center;
+height: 20px;
+
+}
+.second{
+    color: gray;
+    border-right: 50px gray;
+    border-left: 50px gray;
+
+}
+.third{
+    background-color: white;
+border-color: rgb(13, 13, 37);
+padding: 20px;
+margin: auto;
+
+}
